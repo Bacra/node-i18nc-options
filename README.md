@@ -21,8 +21,8 @@ npm install i18nc-options --save
 [npm-image]: http://img.shields.io/npm/v/i18nc-options.svg
 [downloads-image]: http://img.shields.io/npm/dm/i18nc-options.svg
 [npm-url]: https://www.npmjs.org/package/i18nc-options
-[travis-image]: http://img.shields.io/travis/Bacra/node-i18nc-options/master.svg?label=linux
-[travis-url]: https://travis-ci.org/Bacra/node-i18nc-options
+[travis-image]: https://travis-ci.com/Bacra/node-i18nc-options.svg?branch=master
+[travis-url]: https://travis-ci.com/Bacra/node-i18nc-options
 [coveralls-image]: https://img.shields.io/coveralls/Bacra/node-i18nc-options.svg
 [coveralls-url]: https://coveralls.io/github/Bacra/node-i18nc-options
 [license-image]: http://img.shields.io/npm/l/i18nc-options.svg
