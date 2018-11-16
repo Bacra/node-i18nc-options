@@ -16,6 +16,12 @@ npm install i18nc-options --save
 
 # Useage
 
+## iop.defaults
+
+## iop.init(ojb)
+
+## iop.extend(defaults, obj)
+
 
 
 [npm-image]: http://img.shields.io/npm/v/i18nc-options.svg
